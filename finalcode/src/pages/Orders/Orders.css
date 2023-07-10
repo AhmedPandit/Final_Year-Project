@@ -1,0 +1,7 @@
+.selector:hover{
+  cursor: pointer;
+  color: darkblue;
+  font-weight: bold;
+  text-decoration: underline;
+  }
+  

@@ -1,0 +1,118 @@
+body{
+    margin-left: 10px;
+}
+.upperdiv{
+
+    display: flex;
+    
+    flex-direction: row;
+}
+
+.OrderDetails{
+    font-weight: 500;
+}
+.OrderId{
+    margin-left: 10px;
+    margin-top:40px;
+    color: grey;
+    font-size: large;
+}
+.OrderListButton{
+    background-color: rgba(0, 0, 0, 0.886);
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+   
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.RefundOrderButton{
+    color: rgba(0, 0, 0, 0.886);
+    background-color: white;
+    font-size: 12px;
+    padding: 7px;
+    font-weight: 550;
+    -webkit-box-shadow:2px 2px 2px 2px rgba(0,0,0,0.47);
+    border-color: none;
+    border: none;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.middlediv{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+
+.ShippedSummary{
+
+    color: rgba(0, 0, 0, 0.886);
+    background-color: white;
+    padding: 7px;
+    margin: 5px;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 100%;
+
+
+
+}
+.CustomerSummary{
+
+    color: rgba(0, 0, 0, 0.886);
+    background-color: white;
+    padding: 7px;
+    margin: 5px;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 50%;
+
+
+}
+
+
+.DivHeading{
+    font-weight: 700;
+    font-size: large;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+}
+
+
+.HeaderTable{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    height: 40px;
+    flex-direction: row;
+    width: 95%;
+    
+}
+
+.OrderContents{
+    margin-top: 30px;
+}
+
+#ShippedTable {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .ShipOrderButton{
+    background-color: rgb(45, 232, 123);
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+    border-color: none;
+    border: none;
+   
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 75%;
+  }

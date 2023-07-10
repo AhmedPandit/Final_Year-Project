@@ -1,0 +1,31 @@
+.datadisplay{
+    margin-left: 18%;
+    margin-top: 50px;
+    width: 1000px !important;
+    height: 500px;
+
+}
+
+.headingstyle{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size:20px;
+    color: darkgrey;
+
+
+}
+.datastyle{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+
+}
+.editstyle{
+
+    margin-left: 18%;
+    margin-top: 50px;
+    width: 1000px !important;
+    height: 640px;
+
+}
